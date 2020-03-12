@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    padding: 2 rem;
+}
+
+hr {
+    border-top: 1px solid lightgray;
+}
+
+.title {
+    color: #3d9e8b;
+    font-size: 1.6 rem;
+}
+
+textarea {
+    display: inline-block;
+    width: 35%;
+    height: 5rem;
+    margin-left: 0.6rem;
+    border:2px solid lightgray;
+    resize: none;
+}
